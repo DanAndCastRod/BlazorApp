@@ -1,0 +1,316 @@
+2022-12-06T21:41:16.0619367Z Fetching the repository
+2022-12-06T21:41:16.0627763Z /usr/bin/git -c protocol.version=2 fetch --no-tags --prune --progress --no-recurse-submodules --depth=1 origin +eb83674bf91be691a173a1d57e8505cb823ec979:refs/remotes/origin/master
+2022-12-06T21:41:16.3832498Z remote: Enumerating objects: 97, done.        
+2022-12-06T21:41:16.3833082Z remote: Counting objects:   1% (1/97)        
+2022-12-06T21:41:16.3833951Z remote: Counting objects:   2% (2/97)        
+2022-12-06T21:41:16.3834258Z remote: Counting objects:   3% (3/97)        
+2022-12-06T21:41:16.3834527Z remote: Counting objects:   4% (4/97)        
+2022-12-06T21:41:16.3834876Z remote: Counting objects:   5% (5/97)        
+2022-12-06T21:41:16.3835139Z remote: Counting objects:   6% (6/97)        
+2022-12-06T21:41:16.3835390Z remote: Counting objects:   7% (7/97)        
+2022-12-06T21:41:16.3835651Z remote: Counting objects:   8% (8/97)        
+2022-12-06T21:41:16.3835913Z remote: Counting objects:   9% (9/97)        
+2022-12-06T21:41:16.3836190Z remote: Counting objects:  10% (10/97)        
+2022-12-06T21:41:16.3836444Z remote: Counting objects:  11% (11/97)        
+2022-12-06T21:41:16.3836716Z remote: Counting objects:  12% (12/97)        
+2022-12-06T21:41:16.3836985Z remote: Counting objects:  13% (13/97)        
+2022-12-06T21:41:16.3837253Z remote: Counting objects:  14% (14/97)        
+2022-12-06T21:41:16.3837500Z remote: Counting objects:  15% (15/97)        
+2022-12-06T21:41:16.3837758Z remote: Counting objects:  16% (16/97)        
+2022-12-06T21:41:16.3838017Z remote: Counting objects:  17% (17/97)        
+2022-12-06T21:41:16.3838273Z remote: Counting objects:  18% (18/97)        
+2022-12-06T21:41:16.3838522Z remote: Counting objects:  19% (19/97)        
+2022-12-06T21:41:16.3839253Z remote: Counting objects:  20% (20/97)        
+2022-12-06T21:41:16.3839524Z remote: Counting objects:  21% (21/97)        
+2022-12-06T21:41:16.3839780Z remote: Counting objects:  22% (22/97)        
+2022-12-06T21:41:16.3840043Z remote: Counting objects:  23% (23/97)        
+2022-12-06T21:41:16.3840291Z remote: Counting objects:  24% (24/97)        
+2022-12-06T21:41:16.3840546Z remote: Counting objects:  25% (25/97)        
+2022-12-06T21:41:16.3840868Z remote: Counting objects:  26% (26/97)        
+2022-12-06T21:41:16.3841128Z remote: Counting objects:  27% (27/97)        
+2022-12-06T21:41:16.3841375Z remote: Counting objects:  28% (28/97)        
+2022-12-06T21:41:16.3841661Z remote: Counting objects:  29% (29/97)        
+2022-12-06T21:41:16.3841917Z remote: Counting objects:  30% (30/97)        
+2022-12-06T21:41:16.3842173Z remote: Counting objects:  31% (31/97)        
+2022-12-06T21:41:16.3842415Z remote: Counting objects:  32% (32/97)        
+2022-12-06T21:41:16.3842672Z remote: Counting objects:  34% (33/97)        
+2022-12-06T21:41:16.3842929Z remote: Counting objects:  35% (34/97)        
+2022-12-06T21:41:16.3843189Z remote: Counting objects:  36% (35/97)        
+2022-12-06T21:41:16.3843435Z remote: Counting objects:  37% (36/97)        
+2022-12-06T21:41:16.3843693Z remote: Counting objects:  38% (37/97)        
+2022-12-06T21:41:16.3843948Z remote: Counting objects:  39% (38/97)        
+2022-12-06T21:41:16.3844208Z remote: Counting objects:  40% (39/97)        
+2022-12-06T21:41:16.3844456Z remote: Counting objects:  41% (40/97)        
+2022-12-06T21:41:16.3844714Z remote: Counting objects:  42% (41/97)        
+2022-12-06T21:41:16.3844972Z remote: Counting objects:  43% (42/97)        
+2022-12-06T21:41:16.3845227Z remote: Counting objects:  44% (43/97)        
+2022-12-06T21:41:16.3845470Z remote: Counting objects:  45% (44/97)        
+2022-12-06T21:41:16.3845722Z remote: Counting objects:  46% (45/97)        
+2022-12-06T21:41:16.3845976Z remote: Counting objects:  47% (46/97)        
+2022-12-06T21:41:16.3846230Z remote: Counting objects:  48% (47/97)        
+2022-12-06T21:41:16.3846470Z remote: Counting objects:  49% (48/97)        
+2022-12-06T21:41:16.3846724Z remote: Counting objects:  50% (49/97)        
+2022-12-06T21:41:16.3847273Z remote: Counting objects:  51% (50/97)        
+2022-12-06T21:41:16.3847538Z remote: Counting objects:  52% (51/97)        
+2022-12-06T21:41:16.3847780Z remote: Counting objects:  53% (52/97)        
+2022-12-06T21:41:16.3848036Z remote: Counting objects:  54% (53/97)        
+2022-12-06T21:41:16.3848385Z remote: Counting objects:  55% (54/97)        
+2022-12-06T21:41:16.3848740Z remote: Counting objects:  56% (55/97)        
+2022-12-06T21:41:16.3848989Z remote: Counting objects:  57% (56/97)        
+2022-12-06T21:41:16.3849247Z remote: Counting objects:  58% (57/97)        
+2022-12-06T21:41:16.3849499Z remote: Counting objects:  59% (58/97)        
+2022-12-06T21:41:16.3849754Z remote: Counting objects:  60% (59/97)        
+2022-12-06T21:41:16.3850001Z remote: Counting objects:  61% (60/97)        
+2022-12-06T21:41:16.3850261Z remote: Counting objects:  62% (61/97)        
+2022-12-06T21:41:16.3850521Z remote: Counting objects:  63% (62/97)        
+2022-12-06T21:41:16.3850780Z remote: Counting objects:  64% (63/97)        
+2022-12-06T21:41:16.3851042Z remote: Counting objects:  65% (64/97)        
+2022-12-06T21:41:16.3851326Z remote: Counting objects:  67% (65/97)        
+2022-12-06T21:41:16.3851573Z remote: Counting objects:  68% (66/97)        
+2022-12-06T21:41:16.3851829Z remote: Counting objects:  69% (67/97)        
+2022-12-06T21:41:16.3852087Z remote: Counting objects:  70% (68/97)        
+2022-12-06T21:41:16.3852340Z remote: Counting objects:  71% (69/97)        
+2022-12-06T21:41:16.3852582Z remote: Counting objects:  72% (70/97)        
+2022-12-06T21:41:16.3852837Z remote: Counting objects:  73% (71/97)        
+2022-12-06T21:41:16.3853090Z remote: Counting objects:  74% (72/97)        
+2022-12-06T21:41:16.3853353Z remote: Counting objects:  75% (73/97)        
+2022-12-06T21:41:16.3853599Z remote: Counting objects:  76% (74/97)        
+2022-12-06T21:41:16.3853853Z remote: Counting objects:  77% (75/97)        
+2022-12-06T21:41:16.3854112Z remote: Counting objects:  78% (76/97)        
+2022-12-06T21:41:16.3854380Z remote: Counting objects:  79% (77/97)        
+2022-12-06T21:41:16.3854635Z remote: Counting objects:  80% (78/97)        
+2022-12-06T21:41:16.3854890Z remote: Counting objects:  81% (79/97)        
+2022-12-06T21:41:16.3855155Z remote: Counting objects:  82% (80/97)        
+2022-12-06T21:41:16.3855424Z remote: Counting objects:  83% (81/97)        
+2022-12-06T21:41:16.3855668Z remote: Counting objects:  84% (82/97)        
+2022-12-06T21:41:16.3855919Z remote: Counting objects:  85% (83/97)        
+2022-12-06T21:41:16.3856175Z remote: Counting objects:  86% (84/97)        
+2022-12-06T21:41:16.3856429Z remote: Counting objects:  87% (85/97)        
+2022-12-06T21:41:16.3856669Z remote: Counting objects:  88% (86/97)        
+2022-12-06T21:41:16.3856924Z remote: Counting objects:  89% (87/97)        
+2022-12-06T21:41:16.3857180Z remote: Counting objects:  90% (88/97)        
+2022-12-06T21:41:16.3857434Z remote: Counting objects:  91% (89/97)        
+2022-12-06T21:41:16.3857680Z remote: Counting objects:  92% (90/97)        
+2022-12-06T21:41:16.3857936Z remote: Counting objects:  93% (91/97)        
+2022-12-06T21:41:16.3858201Z remote: Counting objects:  94% (92/97)        
+2022-12-06T21:41:16.3858457Z remote: Counting objects:  95% (93/97)        
+2022-12-06T21:41:16.3858700Z remote: Counting objects:  96% (94/97)        
+2022-12-06T21:41:16.3858961Z remote: Counting objects:  97% (95/97)        
+2022-12-06T21:41:16.3859217Z remote: Counting objects:  98% (96/97)        
+2022-12-06T21:41:16.3859470Z remote: Counting objects: 100% (97/97)        
+2022-12-06T21:41:16.3859739Z remote: Counting objects: 100% (97/97), done.        
+2022-12-06T21:41:16.3860026Z remote: Compressing objects:   1% (1/83)        
+2022-12-06T21:41:16.3860310Z remote: Compressing objects:   2% (2/83)        
+2022-12-06T21:41:16.3860584Z remote: Compressing objects:   3% (3/83)        
+2022-12-06T21:41:16.3860856Z remote: Compressing objects:   4% (4/83)        
+2022-12-06T21:41:16.3861118Z remote: Compressing objects:   6% (5/83)        
+2022-12-06T21:41:16.3861465Z remote: Compressing objects:   7% (6/83)        
+2022-12-06T21:41:16.3861734Z remote: Compressing objects:   8% (7/83)        
+2022-12-06T21:41:16.3862003Z remote: Compressing objects:   9% (8/83)        
+2022-12-06T21:41:16.3862262Z remote: Compressing objects:  10% (9/83)        
+2022-12-06T21:41:16.3862597Z remote: Compressing objects:  12% (10/83)        
+2022-12-06T21:41:16.3862885Z remote: Compressing objects:  13% (11/83)        
+2022-12-06T21:41:16.3863166Z remote: Compressing objects:  14% (12/83)        
+2022-12-06T21:41:16.3863433Z remote: Compressing objects:  15% (13/83)        
+2022-12-06T21:41:16.3863704Z remote: Compressing objects:  16% (14/83)        
+2022-12-06T21:41:16.3863979Z remote: Compressing objects:  18% (15/83)        
+2022-12-06T21:41:16.3864253Z remote: Compressing objects:  19% (16/83)        
+2022-12-06T21:41:16.3864514Z remote: Compressing objects:  20% (17/83)        
+2022-12-06T21:41:16.3864783Z remote: Compressing objects:  21% (18/83)        
+2022-12-06T21:41:16.3865057Z remote: Compressing objects:  22% (19/83)        
+2022-12-06T21:41:16.3865327Z remote: Compressing objects:  24% (20/83)        
+2022-12-06T21:41:16.3865582Z remote: Compressing objects:  25% (21/83)        
+2022-12-06T21:41:16.3865849Z remote: Compressing objects:  26% (22/83)        
+2022-12-06T21:41:16.3866120Z remote: Compressing objects:  27% (23/83)        
+2022-12-06T21:41:16.3866388Z remote: Compressing objects:  28% (24/83)        
+2022-12-06T21:41:16.3866641Z remote: Compressing objects:  30% (25/83)        
+2022-12-06T21:41:16.3866908Z remote: Compressing objects:  31% (26/83)        
+2022-12-06T21:41:16.3867180Z remote: Compressing objects:  32% (27/83)        
+2022-12-06T21:41:16.3867448Z remote: Compressing objects:  33% (28/83)        
+2022-12-06T21:41:16.3867705Z remote: Compressing objects:  34% (29/83)        
+2022-12-06T21:41:16.3867973Z remote: Compressing objects:  36% (30/83)        
+2022-12-06T21:41:16.3868244Z remote: Compressing objects:  37% (31/83)        
+2022-12-06T21:41:16.3868513Z remote: Compressing objects:  38% (32/83)        
+2022-12-06T21:41:16.3868781Z remote: Compressing objects:  39% (33/83)        
+2022-12-06T21:41:16.3869035Z remote: Compressing objects:  40% (34/83)        
+2022-12-06T21:41:16.3869306Z remote: Compressing objects:  42% (35/83)        
+2022-12-06T21:41:16.3869578Z remote: Compressing objects:  43% (36/83)        
+2022-12-06T21:41:16.3869842Z remote: Compressing objects:  44% (37/83)        
+2022-12-06T21:41:16.3870292Z remote: Compressing objects:  45% (38/83)        
+2022-12-06T21:41:16.3870571Z remote: Compressing objects:  46% (39/83)        
+2022-12-06T21:41:16.3870835Z remote: Compressing objects:  48% (40/83)        
+2022-12-06T21:41:16.3871105Z remote: Compressing objects:  49% (41/83)        
+2022-12-06T21:41:16.3871362Z remote: Compressing objects:  50% (42/83)        
+2022-12-06T21:41:16.3871634Z remote: Compressing objects:  51% (43/83)        
+2022-12-06T21:41:16.3871904Z remote: Compressing objects:  53% (44/83)        
+2022-12-06T21:41:16.3872188Z remote: Compressing objects:  54% (45/83)        
+2022-12-06T21:41:16.3954706Z remote: Compressing objects:  55% (46/83)        
+2022-12-06T21:41:16.3954987Z remote: Compressing objects:  56% (47/83)        
+2022-12-06T21:41:16.3955239Z remote: Compressing objects:  57% (48/83)        
+2022-12-06T21:41:16.3955500Z remote: Compressing objects:  59% (49/83)        
+2022-12-06T21:41:16.3955746Z remote: Compressing objects:  60% (50/83)        
+2022-12-06T21:41:16.3955978Z remote: Compressing objects:  61% (51/83)        
+2022-12-06T21:41:16.3956219Z remote: Compressing objects:  62% (52/83)        
+2022-12-06T21:41:16.3956635Z remote: Compressing objects:  63% (53/83)        
+2022-12-06T21:41:16.3956905Z remote: Compressing objects:  65% (54/83)        
+2022-12-06T21:41:16.3957161Z remote: Compressing objects:  66% (55/83)        
+2022-12-06T21:41:16.3957429Z remote: Compressing objects:  67% (56/83)        
+2022-12-06T21:41:16.3957695Z remote: Compressing objects:  68% (57/83)        
+2022-12-06T21:41:16.3958200Z remote: Compressing objects:  69% (58/83)        
+2022-12-06T21:41:16.3958457Z remote: Compressing objects:  71% (59/83)        
+2022-12-06T21:41:16.3958723Z remote: Compressing objects:  72% (60/83)        
+2022-12-06T21:41:16.3958988Z remote: Compressing objects:  73% (61/83)        
+2022-12-06T21:41:16.3959349Z remote: Compressing objects:  74% (62/83)        
+2022-12-06T21:41:16.3959615Z remote: Compressing objects:  75% (63/83)        
+2022-12-06T21:41:16.3959880Z remote: Compressing objects:  77% (64/83)        
+2022-12-06T21:41:16.3960146Z remote: Compressing objects:  78% (65/83)        
+2022-12-06T21:41:16.3960412Z remote: Compressing objects:  79% (66/83)        
+2022-12-06T21:41:16.3960666Z remote: Compressing objects:  80% (67/83)        
+2022-12-06T21:41:16.3960930Z remote: Compressing objects:  81% (68/83)        
+2022-12-06T21:41:16.3961195Z remote: Compressing objects:  83% (69/83)        
+2022-12-06T21:41:16.3961467Z remote: Compressing objects:  84% (70/83)        
+2022-12-06T21:41:16.3961725Z remote: Compressing objects:  85% (71/83)        
+2022-12-06T21:41:16.3961991Z remote: Compressing objects:  86% (72/83)        
+2022-12-06T21:41:16.3962329Z remote: Compressing objects:  87% (73/83)        
+2022-12-06T21:41:16.3962594Z remote: Compressing objects:  89% (74/83)        
+2022-12-06T21:41:16.3962863Z remote: Compressing objects:  90% (75/83)        
+2022-12-06T21:41:16.3963117Z remote: Compressing objects:  91% (76/83)        
+2022-12-06T21:41:16.3963382Z remote: Compressing objects:  92% (77/83)        
+2022-12-06T21:41:16.3963646Z remote: Compressing objects:  93% (78/83)        
+2022-12-06T21:41:16.3963911Z remote: Compressing objects:  95% (79/83)        
+2022-12-06T21:41:16.3964166Z remote: Compressing objects:  96% (80/83)        
+2022-12-06T21:41:16.3964430Z remote: Compressing objects:  97% (81/83)        
+2022-12-06T21:41:16.3964697Z remote: Compressing objects:  98% (82/83)        
+2022-12-06T21:41:16.3964961Z remote: Compressing objects: 100% (83/83)        
+2022-12-06T21:41:16.3965236Z remote: Compressing objects: 100% (83/83), done.        
+2022-12-06T21:41:16.5366797Z remote: Total 97 (delta 3), reused 91 (delta 2), pack-reused 0        
+2022-12-06T21:41:16.5468609Z From https://github.com/DanAndCastRod/BlazorApp
+2022-12-06T21:41:16.5469798Z  *          eb83674bf91be691a173a1d57e8505cb823ec979 -> origin/master
+2022-12-06T21:41:16.5505342Z 
+2022-12-06T21:41:16.5506034Z Determining the checkout info
+2022-12-06T21:41:16.5507383Z 
+2022-12-06T21:41:16.5507868Z Checking out the ref
+2022-12-06T21:41:16.5519792Z /usr/bin/git checkout --progress --force -B master refs/remotes/origin/master
+2022-12-06T21:41:16.5756992Z Reset branch 'master'
+2022-12-06T21:41:16.5758367Z branch 'master' set up to track 'origin/master'.
+2022-12-06T21:41:16.5782635Z 
+2022-12-06T21:41:16.5783664Z Setting up auth for fetching submodules
+2022-12-06T21:41:16.5785173Z /usr/bin/git config --global http.https://github.com/.extraheader AUTHORIZATION: basic ***
+2022-12-06T21:41:16.5829336Z /usr/bin/git config --global --unset-all url.https://github.com/.insteadOf
+2022-12-06T21:41:16.5867797Z /usr/bin/git config --global --add url.https://github.com/.insteadOf git@github.com:
+2022-12-06T21:41:16.5911227Z /usr/bin/git config --global --add url.https://github.com/.insteadOf org-40289108@github.com:
+2022-12-06T21:41:16.5942744Z 
+2022-12-06T21:41:16.5943415Z Fetching submodules
+2022-12-06T21:41:16.5946735Z /usr/bin/git submodule sync
+2022-12-06T21:41:16.6188985Z /usr/bin/git -c protocol.version=2 submodule update --init --force --depth=1
+2022-12-06T21:41:16.6409311Z /usr/bin/git submodule foreach git config --local gc.auto 0
+2022-12-06T21:41:16.6629511Z 
+2022-12-06T21:41:16.6630677Z Persisting credentials for submodules
+2022-12-06T21:41:16.6632567Z /usr/bin/git submodule foreach --recursive git config --local --name-only --get-regexp 'url\.https\:\/\/github\.com\/\.insteadOf' && git config --local --unset-all 'url.https://github.com/.insteadOf' || :
+2022-12-06T21:41:16.6861444Z /usr/bin/git submodule foreach git config --local 'http.https://github.com/.extraheader' 'AUTHORIZATION: basic ***' && git config --local --show-origin --name-only --get-regexp remote.origin.url
+2022-12-06T21:41:16.7092379Z /usr/bin/git submodule foreach git config --local --add 'url.https://github.com/.insteadOf' 'git@github.com:'
+2022-12-06T21:41:16.7299852Z /usr/bin/git submodule foreach git config --local --add 'url.https://github.com/.insteadOf' 'org-40289108@github.com:'
+2022-12-06T21:41:16.7515799Z 
+2022-12-06T21:41:16.7558545Z /usr/bin/git log -1 --format='%H'
+2022-12-06T21:41:16.7587004Z 'eb83674bf91be691a173a1d57e8505cb823ec979'
+2022-12-06T21:41:16.7878054Z Run Azure/static-web-apps-deploy@v1
+2022-12-06T21:41:16.7878314Z with:
+2022-12-06T21:41:16.7878903Z   azure_static_web_apps_api_token: ***
+2022-12-06T21:41:16.7879294Z   repo_token: ***
+2022-12-06T21:41:16.7879512Z   action: upload
+2022-12-06T21:41:16.7879719Z   app_location: /
+2022-12-06T21:41:16.7879915Z   api_location: Api
+2022-12-06T21:41:16.7880134Z   output_location: wwwroot
+2022-12-06T21:41:16.7880348Z 
+2022-12-06T21:41:16.8127029Z /usr/bin/docker run --name a6801d64382b530e3e464ec6706_3de822 --label 290506 --workdir /github/workspace --rm -e "INPUT_AZURE_STATIC_WEB_APPS_API_TOKEN" -e "INPUT_REPO_TOKEN" -e "INPUT_ACTION" -e "INPUT_APP_LOCATION" -e "INPUT_API_LOCATION" -e "INPUT_OUTPUT_LOCATION" -e "INPUT_API_BUILD_COMMAND" -e "INPUT_APP_ARTIFACT_LOCATION" -e "INPUT_APP_BUILD_COMMAND" -e "INPUT_ROUTES_LOCATION" -e "INPUT_SKIP_APP_BUILD" -e "INPUT_CONFIG_FILE_LOCATION" -e "INPUT_SKIP_API_BUILD" -e "INPUT_PRODUCTION_BRANCH" -e "INPUT_DEPLOYMENT_ENVIRONMENT" -e "INPUT_IS_STATIC_EXPORT" -e "HOME" -e "GITHUB_JOB" -e "GITHUB_REF" -e "GITHUB_SHA" -e "GITHUB_REPOSITORY" -e "GITHUB_REPOSITORY_OWNER" -e "GITHUB_RUN_ID" -e "GITHUB_RUN_NUMBER" -e "GITHUB_RETENTION_DAYS" -e "GITHUB_RUN_ATTEMPT" -e "GITHUB_ACTOR" -e "GITHUB_TRIGGERING_ACTOR" -e "GITHUB_WORKFLOW" -e "GITHUB_HEAD_REF" -e "GITHUB_BASE_REF" -e "GITHUB_EVENT_NAME" -e "GITHUB_SERVER_URL" -e "GITHUB_API_URL" -e "GITHUB_GRAPHQL_URL" -e "GITHUB_REF_NAME" -e "GITHUB_REF_PROTECTED" -e "GITHUB_REF_TYPE" -e "GITHUB_WORKSPACE" -e "GITHUB_ACTION" -e "GITHUB_EVENT_PATH" -e "GITHUB_ACTION_REPOSITORY" -e "GITHUB_ACTION_REF" -e "GITHUB_PATH" -e "GITHUB_ENV" -e "GITHUB_STEP_SUMMARY" -e "GITHUB_STATE" -e "GITHUB_OUTPUT" -e "RUNNER_OS" -e "RUNNER_ARCH" -e "RUNNER_NAME" -e "RUNNER_TOOL_CACHE" -e "RUNNER_TEMP" -e "RUNNER_WORKSPACE" -e "ACTIONS_RUNTIME_URL" -e "ACTIONS_RUNTIME_TOKEN" -e "ACTIONS_CACHE_URL" -e GITHUB_ACTIONS=true -e CI=true -v "/var/run/docker.sock":"/var/run/docker.sock" -v "/home/runner/work/_temp/_github_home":"/github/home" -v "/home/runner/work/_temp/_github_workflow":"/github/workflow" -v "/home/runner/work/_temp/_runner_file_commands":"/github/file_commands" -v "/home/runner/work/BlazorApp/BlazorApp":"/github/workspace" 290506:19242a6801d64382b530e3e464ec6706
+2022-12-06T21:41:17.2326663Z DeploymentId: 5b776087-ed85-48f0-ba06-ea9f5a22811f
+2022-12-06T21:41:17.2332029Z 
+2022-12-06T21:41:17.3572693Z App Directory Location: '/' was found.
+2022-12-06T21:41:17.3573668Z Looking for event info
+2022-12-06T21:41:18.0852318Z Starting to build app with Oryx
+2022-12-06T21:41:18.0861455Z Azure Static Web Apps utilizes Oryx to build both static applications and Azure Functions. You can find more details on Oryx here: https://github.com/microsoft/Oryx
+2022-12-06T21:41:18.0862047Z ---Oryx build logs---
+2022-12-06T21:41:18.0862327Z 
+2022-12-06T21:41:18.0862768Z 
+2022-12-06T21:41:18.5287374Z Operation performed by Microsoft Oryx, https://github.com/Microsoft/Oryx
+2022-12-06T21:41:18.5298059Z You can report issues at https://github.com/Microsoft/Oryx/issues
+2022-12-06T21:41:18.5303603Z 
+2022-12-06T21:41:18.5308697Z Oryx Version: 0.2.20221103.1, Commit: a2c65dde152b749fea395f4d1242ea9350942258, ReleaseTagName: 20221103.1
+2022-12-06T21:41:18.5313551Z 
+2022-12-06T21:41:18.5321315Z Build Operation ID: |nM/LDNlTZ7s=.8282ed06_
+2022-12-06T21:41:18.5325690Z Repository Commit : eb83674bf91be691a173a1d57e8505cb823ec979
+2022-12-06T21:41:18.5329918Z 
+2022-12-06T21:41:18.5491780Z Detecting platforms...
+2022-12-06T21:41:19.7939823Z Detected following platforms:
+2022-12-06T21:41:19.7946247Z   dotnet: 7.0.0
+2022-12-06T21:41:19.7992889Z Version '7.0.0' of platform 'dotnet' is not installed. Generating script to install it...
+2022-12-06T21:41:19.9270761Z 
+2022-12-06T21:41:19.9363331Z 
+2022-12-06T21:41:19.9377126Z Source directory     : /github/workspace
+2022-12-06T21:41:19.9382412Z Destination directory: /bin/staticsites/ss-oryx/app
+2022-12-06T21:41:19.9386772Z 
+2022-12-06T21:41:19.9391305Z 
+2022-12-06T21:41:19.9396049Z Downloading and extracting 'dotnet' version '7.0.100' to '/opt/dotnet/7.0.100'...
+2022-12-06T21:41:19.9402158Z Detected image debian flavor: bullseye.
+2022-12-06T21:41:21.7498041Z Downloaded in 2 sec(s).
+2022-12-06T21:41:21.7518928Z Verifying checksum...
+2022-12-06T21:41:21.7556254Z Extracting contents...
+2022-12-06T21:41:25.8943760Z performing sha512 checksum for: dotnet...
+2022-12-06T21:41:26.5686686Z Done in 7 sec(s).
+2022-12-06T21:41:26.5693820Z 
+2022-12-06T21:41:26.5712345Z image detector file exists, platform is dotnet..
+2022-12-06T21:41:26.6285618Z 
+2022-12-06T21:41:26.7797945Z Using .NET Core SDK Version: 7.0.100
+2022-12-06T21:41:28.2222356Z 
+2022-12-06T21:41:28.2223089Z Welcome to .NET 7.0!
+2022-12-06T21:41:28.2223776Z ---------------------
+2022-12-06T21:41:28.2226381Z SDK Version: 7.0.100
+2022-12-06T21:41:28.2226990Z 
+2022-12-06T21:41:28.2227417Z Telemetry
+2022-12-06T21:41:28.2316552Z ---------
+2022-12-06T21:41:28.2317940Z The .NET tools collect usage data in order to help us improve your experience. It is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
+2022-12-06T21:41:28.2319200Z 
+2022-12-06T21:41:28.2320317Z Read more about .NET CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
+2022-12-06T21:41:28.2320764Z 
+2022-12-06T21:41:28.2321194Z ----------------
+2022-12-06T21:41:28.2321664Z Installed an ASP.NET Core HTTPS development certificate.
+2022-12-06T21:41:28.2322249Z To trust the certificate run 'dotnet dev-certs https --trust' (Windows and macOS only).
+2022-12-06T21:41:28.2322765Z Learn about HTTPS: https://aka.ms/dotnet-https
+2022-12-06T21:41:28.2323165Z ----------------
+2022-12-06T21:41:28.2323662Z Write your first app: https://aka.ms/dotnet-hello-world
+2022-12-06T21:41:28.2324100Z Find out what's new: https://aka.ms/dotnet-whats-new
+2022-12-06T21:41:28.2324587Z Explore documentation: https://aka.ms/dotnet-docs
+2022-12-06T21:41:28.2325105Z Report issues and find source on GitHub: https://github.com/dotnet/core
+2022-12-06T21:41:28.2325707Z Use 'dotnet --help' to see available commands or visit: https://aka.ms/dotnet-cli
+2022-12-06T21:41:28.2326310Z --------------------------------------------------------------------------------------
+2022-12-06T21:41:28.2326761Z   Determining projects to restore...
+2022-12-06T21:41:28.2327224Z   Restored /github/workspace/BlazorApp.csproj (in 112 ms).
+2022-12-06T21:41:28.2327591Z 
+2022-12-06T21:41:28.2328043Z Publishing to directory /bin/staticsites/ss-oryx/app...
+2022-12-06T21:41:28.2328365Z 
+2022-12-06T21:41:34.1316844Z MSBuild version 17.4.0+18d5aef85 for .NET
+2022-12-06T21:41:34.1329405Z   Determining projects to restore...
+2022-12-06T21:41:34.1334749Z   All projects are up-to-date for restore.
+2022-12-06T21:41:34.1339594Z   BlazorApp -> /github/workspace/bin/Release/net7.0/BlazorApp.dll
+2022-12-06T21:41:34.1343989Z   BlazorApp -> /bin/staticsites/ss-oryx/app/
+2022-12-06T21:41:34.1394244Z Preparing output...
+2022-12-06T21:41:34.1465565Z 
+2022-12-06T21:41:34.1470860Z Removing existing manifest file
+2022-12-06T21:41:34.1552944Z Creating a manifest file...
+2022-12-06T21:41:34.1557882Z Manifest file created.
+2022-12-06T21:41:34.1562066Z Copying .ostype to manifest output directory.
+2022-12-06T21:41:34.1644084Z 
+2022-12-06T21:41:34.1674639Z Done in 15 sec(s).
+2022-12-06T21:41:35.4612865Z 
+2022-12-06T21:41:35.4617934Z 
+2022-12-06T21:41:35.4622287Z ---End of Oryx build logs---
+2022-12-06T21:41:35.4630626Z Finished building app with Oryx
+2022-12-06T21:41:35.4649550Z  Api Directory Location: 'Api' could not be found. Azure Functions will not be created.
+2022-12-06T21:41:35.5907979Z Failed to find a default file in the app artifacts folder (wwwroot). Valid default files: index.html,Index.html.
+2022-12-06T21:41:35.5917172Z If your application contains purely static content, please verify that the variable 'app_location' in your workflow file points to the root of your application.
+2022-12-06T21:41:35.5917930Z If your application requires build steps, please validate that a default file exists in the build output directory.
+2022-12-06T21:41:35.5951947Z 
+2022-12-06T21:41:35.6432909Z 
+2022-12-06T21:41:35.6438902Z For further information, please visit the Azure Static Web Apps documentation at https://docs.microsoft.com/en-us/azure/static-web-apps/
+2022-12-06T21:41:35.6444066Z If you believe this behavior is unexpected, please raise a GitHub issue at https://github.com/azure/static-web-apps/issues/
+2022-12-06T21:41:35.6449372Z Exiting
